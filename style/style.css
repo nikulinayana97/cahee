@@ -257,7 +257,8 @@ html {
 .b-gallery {
   padding: 90px 0 120px 0; }
   .b-gallery__b-text {
-    text-align: center; }
+    text-align: center;
+    margin-bottom: 40px; }
   .b-gallery__title {
     margin-bottom: 20px; }
   .b-gallery__text {
